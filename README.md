@@ -10,4 +10,4 @@
 2. Start the database using XAMPP
 3. Setting the database environment according to your database
 4. Setting the @CrossOrigins origins value in UserController and ItemController according to your front-end url and port (ex. http://localhost:3000)
-5. Run the API (Tomcat Module in XAMPP should run)
+5. Run the API with `mvn spring-boot:run`(Tomcat Module in XAMPP should run)
